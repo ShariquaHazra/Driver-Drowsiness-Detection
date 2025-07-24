@@ -107,9 +107,6 @@ Conv2D → MaxPooling → Conv2D → MaxPooling → Flatten → Dense → Output
 - Save logs of inattention for analytics
 - Add GUI interface
 
----
 
-## Author
-Developed as a internship project to monitor attention levels using deep learning and computer vision.
 
 
